@@ -1,4 +1,4 @@
-# Guzzle 6 HTTP Adapter
+# Guzzle 6 HTTP Adapter (Unofficial update to Guzzle 7)
 
 [![Latest Version](https://img.shields.io/github/release/php-http/guzzle6-adapter.svg?style=flat-square)](https://github.com/php-http/guzzle6-adapter/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
@@ -15,7 +15,7 @@
 Via Composer
 
 ``` bash
-$ composer require php-http/guzzle6-adapter
+$ composer require betalabs/guzzle6-adapter
 ```
 
 
